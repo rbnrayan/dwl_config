@@ -1,5 +1,7 @@
 # This is my custom dwl configuration
 
+Based on dwl (- commit: b4da974, commit after this one require `wlroots v.017`).
+
 ## Patches
 
 - autostart
